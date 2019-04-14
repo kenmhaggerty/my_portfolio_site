@@ -32,3 +32,14 @@ p {
 	font-size: 20;
 	font-family: Arial, Helvetica, sans-serif;
 }
+
+.column img {
+	margin-top: 8px;
+	vertical-align: middle;
+  }
+
+  .imgsize
+  {
+height: 300px;
+width: 300px;
+  }
